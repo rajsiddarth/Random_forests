@@ -1,7 +1,9 @@
 # Random_forests
-Implementation of Random forests in R
+Implementation of Random forests in R.Classifying the target patient as will die or will live based on other factors .Calculating the confusion matrix and hence Sensitivity and specificity of the test.
 
-Data Description
+-Plot Variable importance 
+
+Data Description of the given disease_dataset
 
 1. TARGET: DIE, LIVE 
 2. AGE: 10, 20, 30, 40, 50, 60, 70, 80 
