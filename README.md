@@ -1,7 +1,7 @@
 # Random_forests
 Implementation of Random forests in R
 
-Hepatitis.. Data Description
+Data Description
 
 1. TARGET: DIE, LIVE 
 2. AGE: 10, 20, 30, 40, 50, 60, 70, 80 
