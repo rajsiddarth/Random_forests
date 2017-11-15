@@ -25,4 +25,4 @@ The data set considered has the following variables
 
 ## Objective
 Our objective is to use Random forests to classifying whether the target patient as will die or will live based on otherindependent factors. We can then calculate essential metrics such as the confusion matrix and hence Sensitivity,specificity of the test.
-Though there are many missing values, random forests performs better at handling missing values. We can also plot Variable importance to identify importantfactors affecting th life of the patient.
+Though there are many missing values, random forests performs better at handling missing values. We can also plot Variable importance to identify important factors affecting th life of the patient.
